@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey, welcome to AfrivestBank accounts related webhook APIs"
+  message: "Hey, welcome to AfrivestBank accounts related webhook APIs testing"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}572a886010bf3ee3cc275189a702c875ea9a649b4d710b10373837a43c1a982df3546eced7a5c33d4b212962ba5dfb04"
