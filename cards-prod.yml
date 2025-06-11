@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to AfrivestBank cards related production is doing APIs"
+  message: "Hey, welcome to AfrivestBank cards related production is doing APIs- by Emmanuel Mwiti"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@afrivestbank.com"
